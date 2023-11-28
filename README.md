@@ -3,7 +3,7 @@
 <hr>
 <h3 align="left">Puedes encontrarme en:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jesús salmoral rodríguez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jesús salmoral rodríguez" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/jesús-salmoral-rodríguez-379542196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jesús salmoral rodríguez" height="30" width="40" /></a>
 </p>
 <hr>
 <h3 align="left">Estas son las tenologías que más manejo a día de hoy:</h3>
