@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, soy Jesús</h1>
 <h3 align="center">Un estudiante de ingeniería informática y técnico superior en desarrollo de aplicaciones multiplataforma</h3>
-
+<hr>
 <h3 align="left">Puedes encontrarme en:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jesús salmoral rodríguez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jesús salmoral rodríguez" height="30" width="40" /></a>
 </p>
-
+<hr>
 <h3 align="left">Estas son las tenologías que más manejo a día de hoy:</h3>
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
@@ -13,6 +13,7 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
 </p>
+<hr>
 <h3 align="left">Y estos mis lenguajes de programación 😉:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
