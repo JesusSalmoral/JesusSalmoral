@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Jesús</h1>
-<h3 align="center">Un estudiante de ingeniería informática y técnico superior en desarrollo de aplicaciones multiplataforma</h3>
+<h3 align="center">Un estudiante de ingeniería informática en la Universidad de Córdoba y técnico superior en Desarrollo de Aplicaciones Multiplataforma</h3>
 <hr>
-<h3 align="left">IDEs</h3>
+<h3 align="left">IDEs 💻</h3>
 <p align="left">
   
   ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
@@ -24,7 +24,7 @@
   ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 </p>
 <hr>
-<h3 align="left">Base de datos</h3>
+<h3 align="left">Base de datos 💾</h3>
 <p align="left">
   
   ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
