@@ -1,4 +1,6 @@
-<h1 align="center">Hola 👋, soy Jesús</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hola+que+tal?+👋;+Soy+Jesús!;" />
+</h1>
 <h3 align="center">Un estudiante de ingeniería informática en la Universidad de Córdoba</h3>
 <p align="center"><a href="http://www.uco.es" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Logounicordoba.svg/2560px-Logounicordoba.svg.png" alt="uco" height="200" width="250" /></a></p>
 <h3 align="center">Técnico superior en Desarrollo de Aplicaciones Multiplataforma graduado en CES Lope de Vega</h3>
