@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hola+que+tal?+👋;+Soy+Jesús!;" />
 </h1>
 <h3 align="center">Graduado en Ingeniería Informática en la Universidad de Córdoba</h3>
-<p align="center"><a href="http://www.uco.es" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Logounicordoba.svg/2560px-Logounicordoba.svg.png" alt="uco" height="200" width="250" /></a></p>
+<p align="center"><a href="http://www.uco.es" target="blank"><img align="center" src="https://www.uco.es/veterinaria//templates/uco/images/logo.png" alt="uco" height="200" width="250" /></a></p>
 <h3 align="center">Técnico superior en Desarrollo de Aplicaciones Multiplataforma graduado en CES Lope de Vega</h3>
 <p align="center"><a href="https://www.ceslopedevega.com" target="blank"><img align="center" src="https://ceslopedevegavirtual.com/pluginfile.php/1/theme_moove/logo/1615978501/pruebalogo.svg_.png" alt="uco" height="150" width="400" /></a></p>
 <hr>
