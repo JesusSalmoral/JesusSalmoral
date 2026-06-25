@@ -20,7 +20,7 @@
 <h3 align="left">Frameworks y Tecnologías Web</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,dotnet" />
+    <img src="https://skillicons.dev/icons?i=angular,dotnet,flutter" />
   </a>
 </p>
 <p>
